@@ -1,0 +1,37 @@
+body{
+
+ color:blueviolet;
+ background: red;
+  margin:0px;
+ font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap" rel="stylesheet">
+
+
+
+}
+head {
+    border-bottom:solid 2px escolher yellow;
+    padding: 20px;
+    font-size: 32px;
+    color: blue;
+
+    .chamada {
+    background: chocolate;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center; }
+
+    .chamada-texto{
+        margin-right: 5%;}
+
+h1{
+    font-size: 45px;}
+
+p{
+    font-size: 25px;}
+
+.categoria-videos{
+    display: flex;
+    
